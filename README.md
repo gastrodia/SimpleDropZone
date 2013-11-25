@@ -3,7 +3,7 @@ SimpleDropZone
 
 根据dropzone简化的上传控件
 
-样式 dom结构基本沿用dropzone
+样式 dom结构基本沿用dropzone（只是写得更凌乱了^ ^)
 
 不同的地方
 
