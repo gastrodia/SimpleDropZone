@@ -1,7 +1,6 @@
 SimpleDropZone
 ==============
 
-算是根据dropzone简化的上传控件吧
 
 样式上基本沿用dropzone.js（只是写得更凌乱了^ ^)
 
